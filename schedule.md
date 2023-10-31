@@ -1,12 +1,12 @@
 # Course schedule
 
-Describing which parts of the reader we covered when.
+Describing which parts of the reader we covered when. Chapters refer to the reader. 'GvG' refers to the book.
 
 Week | Date | Chapter | Covered material | Exercise session
 ---  | ---  | ---     | ---              | ---      
 1 | 17 Oct | 1 | Course intro and the 'metaphysics' example | -   
 2 | 24 Oct | 1 | The 'semantics' and 'logic' example | Recap partial orders
-3 | 31 Oct | 1-2 | Finishing the introduction chapter (as recall and outlook), start of chapter 2 on partial orders |
+3 | 31 Oct | 1-2 | Finishing the introduction chapter (as recall and outlook), start of chapter 2 on partial orders | GvG ex. 1.1.1 and drawing Hasse diagrams 
 4 | 7 Nov  | TBA |  |
 5 | 14 Nov | TBA |  |  
 6 | 21 Nov | TBA |  |  
