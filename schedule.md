@@ -12,7 +12,7 @@ Week | Date | Chapter | Covered material | Exercise session | Further suggested 
 6 | 21 Nov | 2 | Sec. 2.3 | Reader ex. 2.c | 
 7 | 28 Nov | 2 | Sec. 2.4 until including prop. 2.13 | GvG ex. 1.2.8 | reader ex. 2.d; GvG ex. 1.2.11  
 8 | 5 Dec  | 2 | Finishing sec. 2.4 | Reader ex. 2.f and 2.g  |  
-9 | 12 Dec | 3 | sec. 3.1 | Reader ex. 2.h and 2.i |  
+9 | 12 Dec | 3 | Sec. 3.1 | Reader ex. 2.h and 2.i |  
 10| 19 Dec | TBA |  |  
 11|  9 Jan | TBA |  |  
 12| 16 Jan | TBA |  |  
