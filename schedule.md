@@ -9,13 +9,13 @@ Week | Date | Chapter | Covered material | Exercise session | Further suggested 
 3 | 31 Oct | 1-2 | Finishing the introduction chapter (as recall and outlook), start of chapter 2 on partial orders | GvG ex. 1.1.1 and drawing Hasse diagrams | -
 4 | 7 Nov  | 2 | Finishing sec. 2.1 | Reader ex. 2.a | GvG ex. 1.1.6; GvG ex. 1.1.7 
 5 | 14 Nov | 2 | Sec. 2.2 | Reader ex. 2.b | Reader ex. 2.c, GvG ex. 1.2.5
-6 | 21 Nov | 2 | Sec. 2.3 | Reader ex. 2.c | 
+6 | 21 Nov | 2 | Sec. 2.3 | Reader ex. 2.c | -
 7 | 28 Nov | 2 | Sec. 2.4 until including prop. 2.13 | GvG ex. 1.2.8 | reader ex. 2.d; GvG ex. 1.2.11  
-8 | 5 Dec  | 2 | Finishing sec. 2.4 | Reader ex. 2.f and 2.g  |  
-9 | 12 Dec | 3 | Sec. 3.1 | Reader ex. 2.h and 2.i |  
-10| 19 Dec | 3 | Finishing sec. 3.1 (starting with separation axioms) and 3.2 | Reader ex 3.a and 3.b |  
-11|  9 Jan | 3 | Sec. 3.3 and 3.4  | Reader ex 3.c and 3.d |  
-12| 16 Jan | 4 | Sec. 4.1.1-2 | Reader ex 3.f and 3.h.(1) |
-13| 23 Jan | 4 | Rest of sec. 4.1 and sec. 4.2.1 | Reader ex 3.h
-14| 30 Jan | 4 | Rest of ch. 4 (proofs not in all detail) | Reader ex. 4.a
-15| 6 Feb  | 5 | Ch. 5  and essay topics | Reader ex. 4.b  
+8 | 5 Dec  | 2 | Finishing sec. 2.4 | Reader ex. 2.f and 2.g  | -  
+9 | 12 Dec | 3 | Sec. 3.1 | Reader ex. 2.h and 2.i |  -
+10| 19 Dec | 3 | Finishing sec. 3.1 (starting with separation axioms) and 3.2 | Reader ex 3.a and 3.b | -  
+11|  9 Jan | 3 | Sec. 3.3 and 3.4  | Reader ex 3.c and 3.d |  -
+12| 16 Jan | 4 | Sec. 4.1.1-2 | Reader ex 3.f and 3.h.(1) | -
+13| 23 Jan | 4 | Rest of sec. 4.1 and sec. 4.2.1 | Reader ex 3.h | -
+14| 30 Jan | 4 | Rest of ch. 4 (proofs not in all detail) | Reader ex. 4.a | -
+15| 6 Feb  | 5 | Ch. 5  and essay topics | Reader ex. 4.b | - 
