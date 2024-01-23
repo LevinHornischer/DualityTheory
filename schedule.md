@@ -16,6 +16,6 @@ Week | Date | Chapter | Covered material | Exercise session | Further suggested 
 10| 19 Dec | 3 | Finishing sec. 3.1 (starting with separation axioms) and 3.2 | Reader ex 3.a and 3.b |  
 11|  9 Jan | 3 | Sec. 3.3 and 3.4  | Reader ex 3.c and 3.d |  
 12| 16 Jan | 4 | Sec. 4.1.1-2 | Reader ex 3.f and 3.h.(1) |
-13| 23 Jan | 4 | Sec. 4.1.1-3-5 | Reader ex 3.h and 4.a
-14| 30 Jan | TBA |  |  
-15| 6 Feb  | TBA |  |   
+13| 23 Jan | 4 | Rest of sec. 4.1 and sec. 4.2.1 | Reader ex 3.h
+14| 30 Jan | 4 | Rest of ch. 4 (proofs not in all detail) | Reader ex. 4.a
+15| 6 Feb  | 5 | Ch. 5  and essay topics | Reader ex. 4.b  
