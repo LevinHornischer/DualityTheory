@@ -2,7 +2,7 @@
 
 ## Comments
 
-Here I collect some possible topics for your final essay. (I might also still add more and update the present ones.) Just to be sure, the suggested topics are meant as first ideas. It is part of the task of writing an essay to turn an interesting aspect of the suggested topic into a precise research question and collect the relevant literature on it. Please have a look at the grading criteria mentioned in the file `formalities.pdf` to get a clear idea of what a good essay is expected to look like. 
+Here I collect some possible topics for your final essay. (I might also still add more and update the present ones.) Just to be sure, the suggested topics are meant as first ideas. It is part of the task of writing an essay to turn an interesting aspect of the suggested topic into a precise research question and collect the relevant literature on it. Please have a look at the grading criteria mentioned in the file [`formalities.pdf`](formalities.pdf) to get a clear idea of what a good essay is expected to look like. 
 
 Overall, the topics follow the pattern of applying the formal tools of duality theory to some philosophical topic. So they are an instance of the method of mathematical philosophy: 
 1. Start with an interesting philosophical phenomenon.
