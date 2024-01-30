@@ -18,4 +18,4 @@ Week | Date | Chapter | Covered material | Exercise session | Further suggested 
 12| 16 Jan | 4 | Sec. 4.1.1-2 | Reader ex 3.f and 3.h.(1) | -
 13| 23 Jan | 4 | Rest of sec. 4.1 and sec. 4.2.1 | Reader ex 3.h | -
 14| 30 Jan | 4 | Rest of ch. 4 (proofs not in all detail) | Reader ex. 4.a | -
-15| 6 Feb  | 5 | Ch. 5  and essay topics | Reader ex. 4.b | - 
+15| 6 Feb  | 5 | Recap sec. 4.4; ch. 5; essay topics | Reader ex. 4.b | - 
