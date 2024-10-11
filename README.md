@@ -1,4 +1,4 @@
-Welcome to the course _Duality Theory: Connecting Logic, Algebra, and Topology _! It is given during the winter semester 2024/5 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. 
+Welcome to the course _Duality Theory: Connecting Logic, Algebra, and Topology_! It is given during the winter semester 2024/5 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. 
 
 
 # Motivation 
