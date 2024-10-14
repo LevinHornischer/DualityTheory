@@ -9,7 +9,7 @@ This course is an introduction to duality theory, which is an exciting area of l
 * open sets of a space vs. points of the space,
 * properties of a computational process vs. denotation of the computational process.
 
-In terms of content, the focus of the course will be to introduce the mathematical theory, after a philosohical motivation. In terms of skills, the aim is to learn how to apply the tools of duality theory. We will illustrate this with applications—especially to philosophical phenomena—that make use of dualities by combining the often opposing advantages of the two perspectives.
+In terms of content, the focus of the course will be to introduce the mathematical theory, after a philosophical motivation. In terms of skills, the aim is to learn how to apply the tools of duality theory. We will illustrate this with applications—especially to philosophical phenomena—that make use of dualities by combining the often opposing advantages of the two perspectives.
 
 
 # General information
@@ -23,7 +23,7 @@ We have two sessions per week during the semester:
 
 # Lecture Notes
 
-The lecture notes are written as the course progresses. You find the latest edition here: TBA.
+The lecture notes are written as the course progresses. You find the latest edition here: [`duality.pdf`](duality.pdf).
 
 They are a rewritten version of last year's notes, which you can find [here](duality_old.pdf).
 
