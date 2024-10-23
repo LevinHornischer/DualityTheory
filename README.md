@@ -41,8 +41,8 @@ The schedule below describes in which week we will cover which material in, resp
 Week | Date       | Chapter | Lecture | Exercise Class
 ---  | ---        | ---     | ---     | --- 
  1   | 16.10.2024 | 1   | Intro to the course and 1.1.1. | Intro to partial orders
- 2   | 23.10.2024 | 1   | Finishing ch. 1 | More on partial orders
- 3   | 30.10.2024 | TBA | TBA | TBA
+ 2   | 23.10.2024 | 1   | Finishing sec. 1.1 | More on partial orders
+ 3   | 30.10.2024 | 1-2 | Finishing ch. 1 and starting ch. 2 | TBA
  4   | 06.11.2024 | TBA | TBA | TBA
  5   | 13.11.2024 | TBA | TBA | TBA
  6   | 20.11.2024 | TBA | TBA | TBA
