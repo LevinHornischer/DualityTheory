@@ -46,7 +46,7 @@ Week | Date       | Chapter | Lecture | Exercise Class
  4   | 06.11.2024 | -   | _cancelled_ | Bonus session on order-adjunctions: ex. 2.e & 2.f
  5   | 13.11.2024 | 2   | Finishing ch. 2 | Ex. 2.g-i
  6   | 20.11.2024 | 3   | Sec. 3.1.1 | Ex. 2.a-b
- 7   | 27.11.2024 | TBA | TBA | TBA
+ 7   | 27.11.2024 | 3   | Until sec. 3.2.1 | Ex. 3.c-e
  8   | 04.12.2024 | TBA | TBA | TBA
  9   | 11.12.2024 | TBA | TBA | TBA
 10   | 18.12.2024 | TBA | TBA | TBA
