@@ -50,7 +50,7 @@ Week | Date       | Chapter | Lecture | Exercise Class
  8   | 04.12.2024 | 3   | Almost finishing sec. 3.2.3 | Ex. 3.f-g
  9   | 11.12.2024 | 3   | Finishing ch. 3 | Ex. 3.h-j (no tutorial in this week)
 10   | 18.12.2024 | 4   | Sec. 4.1 and  until 4.2.2 | Ex. 4.a-c
-11   | 08.01.2025 | 4   | Finishing sec. 4.2 | TBA
+11   | 08.01.2025 | 4   | Finishing sec. 4.2 | 4.d-e (we did 4.d in the lecture)
 12   | 15.01.2025 | TBA | TBA | TBA
 13   | 22.01.2025 | TBA | TBA | TBA
 14   | 29.01.2025 | TBA | TBA | TBA
