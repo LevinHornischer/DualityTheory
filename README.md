@@ -51,7 +51,7 @@ Week | Date       | Chapter | Lecture | Exercise Class
  9   | 11.12.2024 | 3   | Finishing ch. 3 | Ex. 3.h-j (no tutorial in this week)
 10   | 18.12.2024 | 4   | Sec. 4.1 and  until 4.2.2 | Ex. 4.a-c
 11   | 08.01.2025 | 4   | Finishing sec. 4.2 | 4.d-e (we did 4.d in the lecture)
-12   | 15.01.2025 | TBA | TBA | TBA
+12   | 15.01.2025 | 4   | Sec. 4.3 | 4.f
 13   | 22.01.2025 | TBA | TBA | TBA
 14   | 29.01.2025 | TBA | TBA | TBA
 15   | 05.02.2025 | TBA | TBA | TBA
