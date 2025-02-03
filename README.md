@@ -53,8 +53,8 @@ Week | Date       | Chapter | Lecture | Exercise Class
 11   | 08.01.2025 | 4   | Finishing sec. 4.2 | 4.d-e (we did 4.d in the lecture)
 12   | 15.01.2025 | 4   | Sec. 4.3.1-2 | 4.f and,if interested, attempting the proofs in sec. 4.3.3-5 yourself
 13   | 22.01.2025 | 5   | Sec. 5.1 and sketch of 5.2 | Ex. 5.b
-14   | 29.01.2025 | 6   | Generalizations | TBA
-15   | 05.02.2025 | -   | Essay preparation session | -
+14   | 29.01.2025 | 6   | Generalizations | Ex. 6.a-b
+15   | 05.02.2025 | -   | Essay preparation session | Ex. 6.c-d
                
 
 # Essay topic
