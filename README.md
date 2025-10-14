@@ -1,4 +1,4 @@
-Welcome to the course _Duality Theory: Connecting Logic, Algebra, and Topology_! It is given during the winter semester 2024/5 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. 
+Welcome to the course _Duality Theory: Connecting Logic, Algebra, and Topology_! It is given during the winter semester 2025/6 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. (Past editions: winter 2023/4, winter 2024/5.)
 
 
 # Motivation 
@@ -14,18 +14,13 @@ In terms of content, the focus of the course will be to introduce the mathematic
 
 # General information
 
-We have two sessions per week during the semester:
+We have one session per week during the semester:
 
-1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Wednesdays from 12:00 to 14:00 in room 021 (Ludwigstr. 31). Note the sharp (aka "s.t.") times! Here the main content of the course is introduced. Below you find a schedule of when we cover which topic. 
-
-2. The _exercise class_ given by [Marta Esteves](https://www.mcmp.philosophie.uni-muenchen.de/people/doct_fellows/esteves_marta/index.html), on Thursdays from 18:15 to 19:45 in room 028 (Ludwigstr. 31). Here the solutions to the homework exercises are discussed.
-
+1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 10:00 to 12:00 in room 028 (Ludwigstr. 31). Note the sharp (aka "s.t.") times!
 
 # Lecture Notes
 
 The lecture notes are written as the course progresses. You find the latest edition here: [`duality.pdf`](duality.pdf).
-
-They are a rewritten version of last year's notes, which you can find [here](duality_old.pdf).
 
 
 # Formalities
@@ -35,28 +30,30 @@ All the organizational details for the course are described in this file: [`form
 
 # Schedule
 
-The schedule below describes in which week we will cover which material in, respectively, the lecture and the exercise class. The 'Date' is the Wednesday of the week, i.e., when the lecture takes place; the exercise class is a day later.
+The schedule below describes in which week we will cover which material in the lecture, and it recommends exercises. The future part of the schdule is preliminary and will be updated according to what we actually have done in the lecture.
 
-
-Week | Date       | Chapter | Lecture | Exercise Class
+     
+Week | Date       | Chapter | Lecture | Exercise 
 ---  | ---        | ---     | ---     | --- 
- 1   | 16.10.2024 | 1   | Intro to the course and 1.1.1. | Intro to partial orders (ex 2.a)
- 2   | 23.10.2024 | 1   | Finishing sec. 1.1 | More on partial orders (ex 2.b)
- 3   | 30.10.2024 | 1-2 | Finishing ch. 1 and until beginning of 2.1.2 | Ex 2.c & 2.d 
- 4   | 06.11.2024 | -   | _cancelled_ | Bonus session on order-adjunctions: ex. 2.e & 2.f
- 5   | 13.11.2024 | 2   | Finishing ch. 2 | Ex. 2.g-i
- 6   | 20.11.2024 | 3   | Sec. 3.1.1 | Ex. 2.a-b
- 7   | 27.11.2024 | 3   | Until sec. 3.2.1 | Ex. 3.c-e
- 8   | 04.12.2024 | 3   | Almost finishing sec. 3.2.3 | Ex. 3.f-g
- 9   | 11.12.2024 | 3   | Finishing ch. 3 | Ex. 3.h-j (no tutorial in this week)
-10   | 18.12.2024 | 4   | Sec. 4.1 and  until 4.2.2 | Ex. 4.a-c
-11   | 08.01.2025 | 4   | Finishing sec. 4.2 | 4.d-e (we did 4.d in the lecture)
-12   | 15.01.2025 | 4   | Sec. 4.3.1-2 | 4.f and,if interested, attempting the proofs in sec. 4.3.3-5 yourself
-13   | 22.01.2025 | 5   | Sec. 5.1 and sketch of 5.2 | Ex. 5.b
-14   | 29.01.2025 | 6   | Generalizations | Ex. 6.a-b
-15   | 05.02.2025 | -   | Essay preparation session | Ex. 6.c-d
+ 1   | 16.10.2025 | 1   | Intro to the course and 1.1.1. | Intro to partial orders (ex 2.a)
+ 2   | 23.10.2025 | 1   | Finishing sec. 1.1 | More on partial orders (ex 2.b)
+ 3   | 30.10.2025 | 1-2 | Finishing ch. 1 and until beginning of 2.1.2 | Ex 2.c & 2.d 
+ 4   | 06.11.2025 | -   | _cancelled_ | Bonus session on order-adjunctions: ex. 2.e & 2.f
+ 5   | 13.11.2025 | 2   | Finishing ch. 2 | Ex. 2.g-i
+ 6   | 20.11.2025 | 3   | Sec. 3.1.1 | Ex. 2.a-b
+ 7   | 27.11.2025 | 3   | Until sec. 3.2.1 | Ex. 3.c-e
+ 8   | 04.12.2025 | 3   | Almost finishing sec. 3.2.3 | Ex. 3.f-g
+ 9   | 11.12.2025 | 3   | Finishing ch. 3 | Ex. 3.h-j (no tutorial in this week)
+10   | 18.12.2025 | 4   | Sec. 4.1 and  until 4.2.2 | Ex. 4.a-c
+11   | 08.01.2026 | 4   | Finishing sec. 4.2 | 4.d-e (we did 4.d in the lecture)
+12   | 15.01.2026 | 4   | Sec. 4.3.1-2 | 4.f and,if interested, attempting the proofs in sec. 4.3.3-5 yourself
+13   | 22.01.2026 | 5   | Sec. 5.1 and sketch of 5.2 | Ex. 5.b
+14   | 29.01.2026 | 6   | Generalizations | Ex. 6.a-b
+15   | 05.02.2026 | -   | Exam | -
                
 
-# Essay topic
+# Assessment
 
-You can find a list of potential essay topics [here](topics.md).
+There will be a written exam in the last session, which determines your final grade. I plan to provide a practice exam further into the course.
+
+(In the previous year, the assessment was via an essay. Should you want to take a look at the potential essay topics back then, you can go [here](topics.md).)
