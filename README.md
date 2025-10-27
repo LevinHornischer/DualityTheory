@@ -35,8 +35,8 @@ The schedule below describes in which week we will cover which material in the l
      
 Week | Date       | Chapter | Lecture | Exercise 
 ---  | ---        | ---     | ---     | --- 
- 1   | 16.10.2025 | 1   | Intro to the course and 1.1.1. | Intro to partial orders (ex 2.a)
- 2   | 23.10.2025 | 1   | Finishing sec. 1.1 | More on partial orders (ex 2.b)
+ 1   | 16.10.2025 | 1   | Intro to the course and until 1.1.2 | Voluntarily pick from sec. 1.5
+ 2   | 23.10.2025 | 1   | Until def. 2.2 | Ex 2.a and 2.b
  3   | 30.10.2025 | 1-2 | Finishing ch. 1 and until beginning of 2.1.2 | Ex 2.c & 2.d 
  4   | 06.11.2025 | -   | _cancelled_ | Bonus session on order-adjunctions: ex. 2.e & 2.f
  5   | 13.11.2025 | 2   | Finishing ch. 2 | Ex. 2.g-i
