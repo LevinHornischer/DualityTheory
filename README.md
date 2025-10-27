@@ -37,8 +37,8 @@ Week | Date       | Chapter | Lecture | Exercise
 ---  | ---        | ---     | ---     | --- 
  1   | 16.10.2025 | 1   | Intro to the course and until 1.1.2 | Voluntarily pick from sec. 1.5
  2   | 23.10.2025 | 1   | Until def. 2.2 | Ex 2.a and 2.b
- 3   | 30.10.2025 | 1-2 | Finishing ch. 1 and until beginning of 2.1.2 | Ex 2.c & 2.d 
- 4   | 06.11.2025 | -   | _cancelled_ | Bonus session on order-adjunctions: ex. 2.e & 2.f
+ 3   | 30.10.2025 | 2   | Until beginning of 2.1.2 | Ex 2.c & 2.d 
+ 4   | 06.11.2025 | 2   | TBA | Bonus session on order-adjunctions: ex. 2.e & 2.f
  5   | 13.11.2025 | 2   | Finishing ch. 2 | Ex. 2.g-i
  6   | 20.11.2025 | 3   | Sec. 3.1.1 | Ex. 2.a-b
  7   | 27.11.2025 | 3   | Until sec. 3.2.1 | Ex. 3.c-e
