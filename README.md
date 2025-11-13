@@ -39,7 +39,7 @@ Week | Date       | Chapter | Lecture | Exercise
  2   | 23.10.2025 | 1   | Until def. 2.2 | Ex 2.a and 2.b
  3   | 30.10.2025 | 2   | Finishing 2.1 | Ex 2.c & 2.d 
  4   | 06.11.2025 | 2   | Sec. 2.2 | ex. 2.g
- 5   | 13.11.2025 | 2   | Finishing ch. 2 | Ex. 2.g-i
+ 5   | 13.11.2025 | 2   | Finishing ch. 2 | Ex. 2.h-i
  6   | 20.11.2025 | 3   | Sec. 3.1.1 | Ex. 2.a-b
  7   | 27.11.2025 | 3   | Until sec. 3.2.1 | Ex. 3.c-e
  8   | 04.12.2025 | 3   | Almost finishing sec. 3.2.3 | Ex. 3.f-g
