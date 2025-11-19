@@ -40,8 +40,8 @@ Week | Date       | Chapter | Lecture | Exercise
  3   | 30.10.2025 | 2   | Finishing 2.1 | Ex 2.c & 2.d 
  4   | 06.11.2025 | 2   | Sec. 2.2 | ex. 2.g
  5   | 13.11.2025 | 2   | Finishing ch. 2 | Ex. 2.h-i
- 6   | 20.11.2025 | 3   | Sec. 3.1.1 | Ex. 2.a-b
- 7   | 27.11.2025 | 3   | Until sec. 3.2.1 | Ex. 3.c-e
+ 6   | 20.11.2025 | -   | Cancelled | 
+ 7   | 27.11.2025 | 3   | Starting with ch. 3 | 
  8   | 04.12.2025 | 3   | Almost finishing sec. 3.2.3 | Ex. 3.f-g
  9   | 11.12.2025 | 3   | Finishing ch. 3 | Ex. 3.h-j (no tutorial in this week)
 10   | 18.12.2025 | 4   | Sec. 4.1 and  until 4.2.2 | Ex. 4.a-c
