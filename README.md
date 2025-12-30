@@ -18,10 +18,11 @@ We have one session per week during the semester:
 
 1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 10:00 to 12:00 in room 028 (Ludwigstr. 31). Note the sharp (aka "s.t.") times!
 
-# Lecture Notes
+# Lecture notes and other materials
 
 The lecture notes are written as the course progresses. You find the latest edition here: [`duality.pdf`](duality.pdf).
 
+An example exam can be found here: [`example-exam.pdf`](example-exam.pdf).
 
 # Formalities
 
