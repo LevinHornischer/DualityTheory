@@ -18,11 +18,12 @@ We have one session per week during the semester:
 
 1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 10:00 to 12:00 in room 028 (Ludwigstr. 31). Note the sharp (aka "s.t.") times!
 
-# Lecture notes and other materials
+# Lecture notes
 
 The lecture notes are written as the course progresses. You find the latest edition here: [`duality.pdf`](duality.pdf).
 
-An example exam can be found here: [`example-exam.pdf`](example-exam.pdf).
+(An example exam can be found below.)
+
 
 # Formalities
 
@@ -55,6 +56,6 @@ Week | Date       | Chapter | Lecture | Exercise
 
 # Assessment
 
-There will be a written exam in the last session, which determines your final grade. I plan to provide a practice exam further into the course.
+There will be a written exam in the last session, which determines your final grade. An example exam is found here: [`example-exam.pdf`](example-exam.pdf).
 
 (In the previous year, the assessment was via an essay. Should you want to take a look at the potential essay topics back then, you can go [here](topics.md).)
