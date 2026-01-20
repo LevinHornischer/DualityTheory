@@ -48,9 +48,9 @@ Week | Date       | Chapter | Lecture | Exercise
  9   | 11.12.2025 | 3   | Finishing ch. 3 | Ex. 3.g-j (you can skip 3.i)
 10   | 18.12.2025 | 4   | Sec. 4.1 and 4.2.1 | Ex. 4.a-b
 11   | 08.01.2026 | 4   | Finishing sec. 4.2 | 4.c-e, optionally 4.f
-12   | 15.01.2026 | 4   | Sec. 4.3.1-2 | 4.f and,if interested, attempting the proofs in sec. 4.3.3-5 yourself
-13   | 22.01.2026 | 5   | Sec. 5.1 and sketch of 5.2 | Ex. 5.b
-14   | 29.01.2026 | 6   | Generalizations | Ex. 6.a-b
+12   | 15.01.2026 | 4   | Discussing example exam and exercises | Revise your own solutions
+13   | 22.01.2026 | 5   | Sec. 4.3.1-2 | 4.f and, if interested, attempting the proofs in sec. 4.3.3-5 yourself
+14   | 29.01.2026 | 6   | Sec. 5.1 and sketch of 5.2 | Ex. 5.b (not relevant for final exam)
 15   | 05.02.2026 | -   | Exam | -
                
 
