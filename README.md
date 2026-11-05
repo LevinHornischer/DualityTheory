@@ -42,7 +42,7 @@ Week | Date       | Chapter | Lecture | Exercise
  1   | 14.10.2026 | 1   | Intro to the course and until 1.1 | Voluntarily pick from sec. 1.5
  2   | 21.10.2026 | 1-2 | Finishing ch. 1 | More from sec. 1.5
  3   | 28.10.2026 | 2   | Finishing 2.1 | Ex 2.a, 2.b, 2.d 
- 4   | 04.11.2026 | 2   | Sec. 2.2 | ex. 2.g
+ 4   | 04.11.2026 | 2   | Sec. 2.2.1, app. A1 on equivalence relations and quotients | ex. 2.c, 2.g
  5   | 11.11.2026 | -   | Cancelled |
  6   | 18.11.2026 | 2   | Finishing ch. 2 | Ex. 2.h-i 
  7   | 25.11.2026 | 3   | Starting with ch. 3 | Ex. 3.a and 3.b (1-3) 
