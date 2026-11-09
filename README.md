@@ -1,5 +1,8 @@
 Welcome to the course _Duality Theory: Connecting Logic, Algebra, and Topology_! It is given during the winter semester 2026/7 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. (Past editions: winter 2023/4, winter 2024/5, winter 2025/6.)
 
+# Important News
+
+On Wednesday, 11 November 2026, the class is cancelled (as shown in the schedule below). Currently, it is not possible to send an additional announcement email. My apologies for the inconvenience!
 
 # Motivation 
 
