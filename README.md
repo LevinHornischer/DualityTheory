@@ -1,9 +1,5 @@
 Welcome to the course _Duality Theory: Connecting Logic, Algebra, and Topology_! It is given during the winter semester 2026/7 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. (Past editions: winter 2023/4, winter 2024/5, winter 2025/6.)
 
-# Important News
-
-On Wednesday, 11 November 2026, the class is cancelled (as shown in the schedule below). Currently, it is not possible to send an additional announcement email. My apologies for the inconvenience!
-
 # Motivation 
 
 This course is an introduction to duality theory, which is an exciting area of logic and neighboring subjects like math and computer science. The fundamental theorem is Stone's duality theorem stating that certain algebras (Boolean algebras) are in a precise sense equivalent to certain topological spaces (totally disconnected compact Hausdorff spaces). The underlying idea is that the two seemingly different perspectives—the algebraic one and the spatial one—are really two sides of the same coin:
@@ -46,10 +42,10 @@ Week | Date       | Chapter | Lecture | Exercise
  2   | 21.10.2026 | 1-2 | Finishing ch. 1 | More from sec. 1.5
  3   | 28.10.2026 | 2   | Finishing 2.1 | Ex 2.a, 2.b, 2.d 
  4   | 04.11.2026 | 2   | Sec. 2.2.1, app. A1 on equivalence relations and quotients | ex. 2.c, 2.g
- 5   | 11.11.2026 | -   | Cancelled |
- 6   | 18.11.2026 | 2   | Finishing ch. 2 | Ex. 2.h-i 
+ 5   | 11.11.2026 | -   | _Cancelled_ |
+ 6   | 18.11.2026 | 2   | Finishing ch. 2, until def. 3.1 | Ex. 2.h-i (optional, if you know rings, ex. 2.j)
  7   | 25.11.2026 | 3   | Starting with ch. 3 | Ex. 3.a and 3.b (1-3) 
- 8   | 02.12.2026 | 3   | Finished sec. 3.1 | Ex. 3.c-e (in the version of the notes after 4 Dec 2025)
+ 8   | 02.12.2026 | 3   | Finished sec. 3.1 | Ex. 3.c-e
  9   | 09.12.2026 | 3   | Finishing ch. 3 | Ex. 3.g-j (you can skip 3.i)
 10   | 16.12.2026 | 4   | Sec. 4.1 and 4.2.1 | Ex. 4.a-b
 11   | 23.12.2026 | 4   | Finishing sec. 4.2 | 4.c-e, optionally 4.f
